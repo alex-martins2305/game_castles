@@ -36,8 +36,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spt_player",
-    "path": "sprites/spt_player/spt_player.yy",
+    "name": "spt_player_idle",
+    "path": "sprites/spt_player_idle/spt_player_idle.yy",
   },
   "spriteMaskId": null,
   "visible": true,

@@ -34,6 +34,8 @@
     "IDEVersion": "2023.8.1.102",
   },
   "resources": [
+    {"id":{"name":"spt_player_walk","path":"sprites/spt_player_walk/spt_player_walk.yy",},},
+    {"id":{"name":"spt_player_idle","path":"sprites/spt_player_idle/spt_player_idle.yy",},},
     {"id":{"name":"Obj_ground","path":"objects/Obj_ground/Obj_ground.yy",},},
     {"id":{"name":"spt_ground","path":"sprites/spt_ground/spt_ground.yy",},},
     {"id":{"name":"spt_player","path":"sprites/spt_player/spt_player.yy",},},

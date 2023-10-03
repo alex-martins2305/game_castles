@@ -17,6 +17,8 @@
     {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"spt_player_walk","order":2,"path":"sprites/spt_player_walk/spt_player_walk.yy",},
+    {"name":"spt_player_idle","order":3,"path":"sprites/spt_player_idle/spt_player_idle.yy",},
     {"name":"Obj_ground","order":1,"path":"objects/Obj_ground/Obj_ground.yy",},
     {"name":"spt_ground","order":1,"path":"sprites/spt_ground/spt_ground.yy",},
   ],

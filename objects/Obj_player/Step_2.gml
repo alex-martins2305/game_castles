@@ -26,6 +26,14 @@ y+=velv;
 if place_meeting(x,y+1,Obj_ground)
 	{
 		max_jump=1
+		if (velh!=0)
+		{
+		sprite_index=spt_player_walk
+		}
+		else
+		{
+		sprite_index=spt_player_idle
+		}
 	}
 else
 	{
