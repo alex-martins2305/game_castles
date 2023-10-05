@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Obj_ground",
+  "name": "Obj_pig_enemy",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -9,7 +9,10 @@
     "name": "Objetos",
     "path": "folders/Objetos.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "obj_gosth",
+    "path": "objects/obj_gosth/obj_gosth.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -26,9 +29,9 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spt_ground",
-    "path": "sprites/spt_ground/spt_ground.yy",
+    "name": "spt_pig1",
+    "path": "sprites/spt_pig1/spt_pig1.yy",
   },
   "spriteMaskId": null,
-  "visible": false,
+  "visible": true,
 }

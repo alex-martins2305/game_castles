@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Obj_ground",
+  "name": "Obj_enemy1",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -9,7 +9,10 @@
     "name": "Objetos",
     "path": "folders/Objetos.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "Obj_gosth",
+    "path": "objects/Obj_gosth/Obj_gosth.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -26,9 +29,9 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spt_ground",
-    "path": "sprites/spt_ground/spt_ground.yy",
+    "name": "spt_enemy1",
+    "path": "sprites/spt_enemy1/spt_enemy1.yy",
   },
   "spriteMaskId": null,
-  "visible": false,
+  "visible": true,
 }
